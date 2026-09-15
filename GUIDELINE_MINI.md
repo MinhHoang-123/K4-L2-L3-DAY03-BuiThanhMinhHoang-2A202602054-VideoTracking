@@ -7,7 +7,7 @@
 > người trong nhóm gán khác nhau, gần như luôn là vì file này chưa nói rõ — chứ
 > không phải vì ai kém.
 
-Nhóm / tên: `...`
+Nhóm / tên: `Bui Thanh Minh Hoang`
 Clip: `clip_01`, `clip_02`
 
 ---
@@ -49,26 +49,26 @@ Bổ sung của nhóm (nếu có): `...`
 Ghi **frame cụ thể** và **ID cụ thể**, không ghi chung chung.
 
 ### Ca 1
-- Clip / frame / ID: `...`
-- Tình huống: `...`
-- Quyết định: `...`
-- Lý do: `...`
+- Clip / frame / ID: `Clip_01/Frame_87/ID_3`
+- Tình huống: `Xe_6 bi xe_4 che khuat`
+- Quyết định: `Van gan nhan`
+- Lý do: `Van gan nhan`
 
 ### Ca 2
-- Clip / frame / ID: `...`
-- Tình huống: `...`
-- Quyết định: `...`
-- Lý do: `...`
+- Clip / frame / ID: `Clip_01/Frame_82/ID_3`
+- Tình huống: `Xe_5 bi xe_4 che khuat`
+- Quyết định: `Van gan nhan`
+- Lý do: `Van gan nhan`
 
 ### Ca 3
-- Clip / frame / ID: `...`
-- Tình huống: `...`
-- Quyết định: `...`
-- Lý do: `...`
+- Clip / frame / ID: `Clip_01/Frame_190/ID_3`
+- Tình huống: `Xe_2 bi Xe_7 che khuat`
+- Quyết định: `Van gan nhan`
+- Lý do: `Van gan nhan`
 
 ## 5. Sửa gì sau khi chấm với gold và sau khi kiểm chéo
 
 Luật nào trong file này hoá ra còn thiếu hoặc còn mơ hồ? Viết lại cho rõ:
 
-- `...`
-- `...`
+- `Khong can sua`
+
